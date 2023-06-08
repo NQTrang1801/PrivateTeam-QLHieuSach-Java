@@ -9,6 +9,8 @@ Thành viên nhóm Private
 |21521556|Nguyễn Quốc Trạng         |21521556@gm.uit.edu.vn  |
 
 ##
+Link video demo: https://drive.google.com/file/d/1JreWZj_iWOflVDglPK1dEUlTImvJz-LI/view?usp=drive_link
+##
 link source databases ORACLE: https://drive.google.com/file/d/1aa-wq8gKtI3nQV-F_RwixdjgFNoiheuk/view?usp=sharing
 ##
 link library java: https://drive.google.com/drive/folders/189lURFDrOJb9nHrVHfyCwhvDscPbZrZb
