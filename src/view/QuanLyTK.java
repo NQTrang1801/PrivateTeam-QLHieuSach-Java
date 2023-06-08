@@ -61,18 +61,13 @@ public class QuanLyTK extends javax.swing.JFrame {
 
     public void KetNoiCSDL() {
         try {
-            Class.forName("oracle.jdbc.driver.OracleDriver");   //Load lớp Oracle JDBC driver bằng cách sử dụng phương thức static `forName()` của lớp Class
-            System.out.print("Ket noi thanh cong");
-        } catch (ClassNotFoundException ex) {
-            Logger.getLogger(QuanLyTK.class.getName()).log(Level.SEVERE, null, ex);    //Xử lý ngoại lệ ClassNotFoundException và hiển thị chi tiết lỗi lên bảng điều khiển
-        }   // Bắt đầu khối try-catch để bắt ngoại lệ ClassNotFoundException, trong trường hợp không tìm thấy lớp jdbc driver để kết nối với cơ sở dữ liệu
-        try {
-
-            conn = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl21", "PrivateTeam", "12345678");
+            conn = dao.ConnectionOracle.getOracleConnection();
             //Thiết lập cấu trúc URL của cơ sở dữ liệu và bắt đầu kết nối đến cơ sở dữ liệu sử dụng tên người dùng và mật khẩu tương ứng
         } catch (SQLException ex) {
-            Logger.getLogger(QuanLyTK.class.getName()).log(Level.SEVERE, null, ex);
-        }   //  Bắt đầu khối try-catch để bắt ngoại lệ SQLException, trong trường hợp kết nối cơ sở dữ liệu thất bại
+            Logger.getLogger(CTPN.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (ClassNotFoundException ex) {
+            Logger.getLogger(CTPN.class.getName()).log(Level.SEVERE, null, ex);
+        }
 
     }
 
