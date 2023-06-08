@@ -9,6 +9,8 @@ Thành viên nhóm Private
 |21521556|Nguyễn Quốc Trạng         |21521556@gm.uit.edu.vn  |
 
 ##
+link source databases ORACLE: https://drive.google.com/file/d/1aa-wq8gKtI3nQV-F_RwixdjgFNoiheuk/view?usp=sharing
+##
 link library java: https://drive.google.com/drive/folders/189lURFDrOJb9nHrVHfyCwhvDscPbZrZb
 ##
 website giới thiệu nhóm: https://private.renderforestsites.com/hopdong/?fbclid=IwAR1nAYrZDQ9rFT3gM5DjFdFYafE1pwWnwQB-5ZCil8z3jkS6g2xvzqQkbE0
