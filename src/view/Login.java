@@ -21,6 +21,9 @@ public class Login extends javax.swing.JFrame {
     public Login() {
         initComponents();
         this.setLocationRelativeTo(this);
+        // Đây là tính năng mở rộng, nhóm Private sẽ nâng cấp nếu cần thiết! 
+        txtSDTKH.setEditable(false); // không cho phép chỉnh sửa
+        txtSDTKH.setEnabled(false); // không cho phép nhập liệu
     }
 
     /**
