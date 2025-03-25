@@ -11,7 +11,7 @@ Thành viên nhóm Private
 ##
 Link video demo: https://drive.google.com/file/d/1JreWZj_iWOflVDglPK1dEUlTImvJz-LI/view?usp=drive_link
 ##
-link source databases ORACLE: https://drive.google.com/file/d/1aa-wq8gKtI3nQV-F_RwixdjgFNoiheuk/view?usp=sharing
+link source databases ORACLE: https://drive.google.com/file/d/1a6_3o5P2a25bVltk0cpy3X8X5XA13NHU/view?usp=drive_link
 ##
 link library java: https://drive.google.com/drive/folders/189lURFDrOJb9nHrVHfyCwhvDscPbZrZb
 ##
